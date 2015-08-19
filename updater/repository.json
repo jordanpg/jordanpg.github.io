@@ -1,0 +1,18 @@
+{
+	"name": "ottosparks mod bonanza",
+	"add-ons":
+	[
+		{
+			"name": "GameMode_Mafia_Madness_Too",
+			"description": "An expandable framework based on the Mafia Madness gamemode created by []----[].",
+			"channels":
+			[
+				{
+					"name": "beta",
+					"version": "1.0.0",
+					"file": "http://github.com/ottosparks/mafia-madness-too/GameMode_Mafia_Madness_Too.zip"
+				}
+			]
+		}
+	]
+}
