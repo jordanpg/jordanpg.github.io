@@ -11,7 +11,7 @@
 					"name": "beta",
 					"version": "2.0.0",
 					"restartRequired": "2.0.0",
-					"file": "http://raw.githubusercontent.com/ottosparks/mafia-madness-too/master/GameMode_Mafia_Madness_Too.zip"
+					"file": "ottosparks.github.io/updater/GameMode_Mafia_Madness_Too.zip"
 				}
 			]
 		}
