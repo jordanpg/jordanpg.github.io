@@ -10,6 +10,7 @@
 				{
 					"name": "beta",
 					"version": "2.0.0",
+					"restartRequired": "2.0.0",
 					"file": "http://github.com/ottosparks/mafia-madness-too/GameMode_Mafia_Madness_Too.zip"
 				}
 			]
