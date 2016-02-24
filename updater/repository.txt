@@ -9,9 +9,22 @@
 			[
 				{
 					"name": "beta",
-					"version": "2.0.0",
+					"version": "2.1.0",
 					"restartRequired": "2.0.0",
 					"file": "ottosparks.github.io/updater/GameMode_Mafia_Madness_Too.zip"
+				}
+			]
+		},
+		{
+			"name": "MMT_Reputation",
+			"description": "A TTT-like reputation system for Mafia Madness (too).",
+			"channels":
+			[
+				{
+					"name": "release",
+					"version": "1.0.0",
+					"restartRequired": "1.0.0",
+					"file": "ottosparks.github.io/updater/MMT_Reputation.zip"
 				}
 			]
 		}
