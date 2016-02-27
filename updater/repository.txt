@@ -9,7 +9,7 @@
 			[
 				{
 					"name": "beta",
-					"version": "2.1.0",
+					"version": "2.2.0",
 					"restartRequired": "2.0.0",
 					"file": "ottosparks.github.io/updater/GameMode_Mafia_Madness_Too.zip"
 				}
@@ -25,6 +25,19 @@
 					"version": "1.0.0",
 					"restartRequired": "1.0.0",
 					"file": "ottosparks.github.io/updater/MMT_Reputation.zip"
+				}
+			]
+		},
+		{
+			"name": "MMT_Deathville_USA",
+			"description": "A gamemode centered around the rising dead.",
+			"channels":
+			[
+				{
+					"name": "release",
+					"version": "1.0.0",
+					"restartRequired": "1.0.0",
+					"file": "ottosparks.github.io/updater/MMT_Deathville_USA.zip"
 				}
 			]
 		}
